@@ -1,5 +1,5 @@
 # Installation
-* set up the server-assignment project and run it (it should run at localhost:3200)
+* set up the server-assignment project and run it (it should run at localhost:3000)
 * run npm install
 * run npm start
 
